@@ -11,15 +11,22 @@ Project title:
 Analyzing Federated Learning Models with IID and Non-IID Data Variations
 
 Conference login link for submitted paper: 
+
 Conference Name: International Conference on Pattern Recognition (ICPR)
+
 Conference URL: https://icpr2024.org/cfp.html 
+
 Conference Submission Date: 1 December 2024
 
 Group Number:
 05
 
 Group Members:
+
 Fahim Faisal Rafi  19201081
+
 Ilmy Islam  23141082
+
 Fardin Bin Rahman 23141092
+
 Md. Fahim Shahriar 23341075
